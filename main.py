@@ -27,7 +27,6 @@ dia(9)
 
 #####Ex4_Summation of harmonic series #########
 
-
 def sum(n):
      
     if n < 2:
