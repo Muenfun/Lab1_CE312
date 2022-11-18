@@ -1,2 +1,2 @@
 # Lab1_CE312
-Muenfun Boonruen_336A
+Muenfun Boonrueng_336A
